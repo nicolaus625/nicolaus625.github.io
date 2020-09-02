@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 11:29:43 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 02 Sep 2020 11:29:43 +0800</pubDate>
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIR</title>
+      <link>/tags/mir/</link>
+      <pubDate>Wed, 02 Sep 2020 11:29:43 +0800</pubDate>
+      <guid>/tags/mir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound Event Detection</title>
+      <link>/tags/sound-event-detection/</link>
+      <pubDate>Wed, 02 Sep 2020 11:29:43 +0800</pubDate>
+      <guid>/tags/sound-event-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+      <pubDate>Wed, 02 Sep 2020 00:19:18 +0800</pubDate>
+      <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonetics</title>
+      <link>/tags/phonetics/</link>
+      <pubDate>Wed, 02 Sep 2020 00:19:18 +0800</pubDate>
+      <guid>/tags/phonetics/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

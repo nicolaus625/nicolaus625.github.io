@@ -3,6 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2020-09-02T11:29:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mir/</loc>
+    <lastmod>2020-09-02T11:29:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-02T11:29:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-02T11:29:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sound-event-detection/</loc>
+    <lastmod>2020-09-02T11:29:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-02T11:29:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/graduation/</loc>
+    <lastmod>2020-09-02T11:29:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-09-02T00:21:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/summer_deepmusic_mir/</loc>
+    <lastmod>2020-09-02T00:21:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/graduate/</loc>
+    <lastmod>2020-09-02T00:21:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2020-09-02T00:19:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/phonetics/</loc>
+    <lastmod>2020-09-02T00:19:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/phonetics/</loc>
+    <lastmod>2020-09-02T00:19:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/csmt2019_pub/</loc>
+    <lastmod>2020-09-01T23:47:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/csmt2019/</loc>
+    <lastmod>2020-09-01T23:22:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/name_post/</loc>
+    <lastmod>2020-09-01T22:48:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-09-01T22:48:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/duan_zhiyao/</loc>
+    <lastmod>2020-09-02T00:19:03+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
   </url>
   
@@ -15,27 +105,11 @@
   </url>
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
     <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

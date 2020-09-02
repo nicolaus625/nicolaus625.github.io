@@ -5,12 +5,36 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 11:29:43 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>基于机器学习的笛子演奏技法 识别研究与实现 (Research &amp; implementation of Chinese flute playing technique recognition based on ML)</title>
+      <link>/publication/graduation/</link>
+      <pubDate>Wed, 02 Sep 2020 11:29:43 +0800</pubDate>
+      <guid>/publication/graduation/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Feb. 2020 – May 2020. Beijing, CHN.&lt;/li&gt;
+&lt;li&gt;One of the graduation theses that awarded the outstanding &lt;a href=&#39;../../files/毕设论文.pdf&#39; target=&#39;_blank&#39;&gt;paper&lt;/a&gt; honor of School of Mathematical Science, Peking University.&lt;/li&gt;
+&lt;li&gt;Supervised by prof. CHEN Xiaoou in Wangxuan Institute of Computer Technology, PKU.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;see at project for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于卷积循环神经网的复音音乐中国民族乐器检测 (Detection of Chinese Instrumental Quartet based on CRNN)</title>
+      <link>/publication/csmt2019/</link>
+      <pubDate>Tue, 01 Sep 2020 23:22:00 +0800</pubDate>
+      <guid>/publication/csmt2019/</guid>
+      <description>&lt;p&gt;Participant of the conference.&lt;/p&gt;
+&lt;p&gt;Published a paper entitled “基于卷积循环神经网的复音音乐中国民族乐器检测”(&lt;a href=&#39;../../files/publication.pdf&#39; target=&#39;_blank&#39;&gt;Detection of Chinese Instrumental Quartet based on CRNN.pdf&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

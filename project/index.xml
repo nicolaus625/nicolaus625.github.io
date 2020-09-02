@@ -1,30 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MIRer</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>MIRer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 11:29:43 +0800</lastBuildDate>
+    <title>Projects | MIRer</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:21:40 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
-      <title>MIRer</title>
-      <link>/</link>
+      <title>Projects</title>
+      <link>/project/</link>
     </image>
-    
-    <item>
-      <title>基于机器学习的笛子演奏技法 识别研究与实现 (Research &amp; implementation of Chinese flute playing technique recognition based on ML)</title>
-      <link>/publication/graduation/</link>
-      <pubDate>Wed, 02 Sep 2020 11:29:43 +0800</pubDate>
-      <guid>/publication/graduation/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Feb. 2020 – May 2020. Beijing, CHN.&lt;/li&gt;
-&lt;li&gt;One of the graduation theses that awarded the outstanding &lt;a href=&#39;../../files/毕设论文.pdf&#39; target=&#39;_blank&#39;&gt;paper&lt;/a&gt; honor of School of Mathematical Science, Peking University.&lt;/li&gt;
-&lt;li&gt;Supervised by prof. CHEN Xiaoou in Wangxuan Institute of Computer Technology, PKU.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;see at project for more information.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Tempo Detection of Chinese Pop Music</title>
@@ -99,32 +85,6 @@ instruments technology.&lt;/p&gt;
 &lt;li&gt;Evaluated the percussion, recall rate and F-measure of the model and CNN baseline model, and compared the difference among different quartet databases generate from different music skills or music types.&lt;/li&gt;
 &lt;li&gt;published (&lt;a href=&#39;../../files/publication.pdf&#39; target=&#39;_blank&#39;&gt;result&lt;/a&gt;) on Conference of Sound and Music Technology 2019.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>基于卷积循环神经网的复音音乐中国民族乐器检测 (Detection of Chinese Instrumental Quartet based on CRNN)</title>
-      <link>/publication/csmt2019/</link>
-      <pubDate>Tue, 01 Sep 2020 23:22:00 +0800</pubDate>
-      <guid>/publication/csmt2019/</guid>
-      <description>&lt;p&gt;Participant of the conference.&lt;/p&gt;
-&lt;p&gt;Published a paper entitled “基于卷积循环神经网的复音音乐中国民族乐器检测”(&lt;a href=&#39;../../files/publication.pdf&#39; target=&#39;_blank&#39;&gt;Detection of Chinese Instrumental Quartet based on CRNN.pdf&lt;/a&gt;).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning How to Write Blog</title>
-      <link>/post/name_post/</link>
-      <pubDate>Tue, 01 Sep 2020 22:48:26 +0800</pubDate>
-      <guid>/post/name_post/</guid>
-      <description>&lt;p&gt;main part of the blog with markdown gramma&lt;/p&gt;
-&lt;h1 id=&#34;title&#34;&gt;title&lt;/h1&gt;
-&lt;h2 id=&#34;second-title&#34;&gt;second title&lt;/h2&gt;
-&lt;p&gt;common words&lt;/p&gt;
-&lt;p&gt;use the following codes in the powershell to add a pages document for post(blog), recent talk or recent publication:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-Python&#34;&gt;hugo new  --kind post post/ my-article-name 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;than there will be a new .md doc in your file &amp;ldquo;./content/post/&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     

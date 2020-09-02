@@ -5,12 +5,28 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 22:48:26 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Learning How to Write Blog</title>
+      <link>/post/name_post/</link>
+      <pubDate>Tue, 01 Sep 2020 22:48:26 +0800</pubDate>
+      <guid>/post/name_post/</guid>
+      <description>&lt;p&gt;main part of the blog with markdown gramma&lt;/p&gt;
+&lt;h1 id=&#34;title&#34;&gt;title&lt;/h1&gt;
+&lt;h2 id=&#34;second-title&#34;&gt;second title&lt;/h2&gt;
+&lt;p&gt;common words&lt;/p&gt;
+&lt;p&gt;use the following codes in the powershell to add a pages document for post(blog), recent talk or recent publication:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-Python&#34;&gt;hugo new  --kind post post/ my-article-name 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;than there will be a new .md doc in your file &amp;ldquo;./content/post/&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

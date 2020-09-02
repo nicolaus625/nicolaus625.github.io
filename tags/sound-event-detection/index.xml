@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sound Event Detection | MIRer</title>
+    <link>/tags/sound-event-detection/</link>
+      <atom:link href="/tags/sound-event-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sound Event Detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 11:29:43 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
+      <title>Sound Event Detection</title>
+      <link>/tags/sound-event-detection/</link>
+    </image>
+    
+    <item>
+      <title>基于机器学习的笛子演奏技法 识别研究与实现 (Research &amp; implementation of Chinese flute playing technique recognition based on ML)</title>
+      <link>/publication/graduation/</link>
+      <pubDate>Wed, 02 Sep 2020 11:29:43 +0800</pubDate>
+      <guid>/publication/graduation/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Feb. 2020 – May 2020. Beijing, CHN.&lt;/li&gt;
+&lt;li&gt;One of the graduation theses that awarded the outstanding &lt;a href=&#39;../../files/毕设论文.pdf&#39; target=&#39;_blank&#39;&gt;paper&lt;/a&gt; honor of School of Mathematical Science, Peking University.&lt;/li&gt;
+&lt;li&gt;Supervised by prof. CHEN Xiaoou in Wangxuan Institute of Computer Technology, PKU.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;see at project for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research &amp; implementation of Chinese flute playing technique recognition based on machine learning</title>
+      <link>/project/graduate/</link>
+      <pubDate>Wed, 02 Sep 2020 00:21:10 +0800</pubDate>
+      <guid>/project/graduate/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Feb. 2020 – May 2020. Beijing, CHN.&lt;/li&gt;
+&lt;li&gt;One of the graduation theses that awarded the outstanding &lt;a href=&#39;../../files/毕设论文.pdf&#39; target=&#39;_blank&#39;&gt;paper&lt;/a&gt; honor of School of Mathematical Science, Peking University.&lt;/li&gt;
+&lt;li&gt;Research Assistant for prof. CHEN Xiaoou in Wangxuan Institute of Computer Technology at Peking University.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Music object recognition and recording is the essential component of music information retrieval. Different from other fields of melody extraction and music transcription, the research on musical instrument technique detection is still in the early stage. The existing work mainly focuses on technique detection of individual notes or frame, and there is a lack of effective data set.&lt;/p&gt;
+&lt;p&gt;This article constructed &lt;a href=&#39;https://pan.baidu.com/s/1Czf6ZYqkW1EEpZeJh_3_gw&#39; target=&#39;_blank&#39;&gt;audio dataset&lt;/a&gt;(extraction code &amp;ldquo;jvbk&amp;rdquo; if needed) on ten kinds of techniques of transverse Chinese bamboo flute (Di), with 101 minutes of audio, using Mel frequency spectrum as audio feature, and put forward a model based on the fully convolutional neural network (FCNN). This model is an end-to-end sound event detector for variable length of the input and can be used in the detection of
+instruments technology.&lt;/p&gt;
+&lt;p&gt;Compared to the model based on VGG13, VGG16 and LeNet-5 baseline to evaluate the effectiveness of the proposed framework, this model got the average accuracy 94%, much better than all the others, on input of the different length of audio, which suggest good generalization ability.&lt;/p&gt;
+&lt;p&gt;Key Words： sound event detection, music information retrieval, fully convolutional neural network, musical instrumet technique detection&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chinese instrument recognition</title>
+      <link>/project/csmt2019_pub/</link>
+      <pubDate>Tue, 01 Sep 2020 23:47:26 +0800</pubDate>
+      <guid>/project/csmt2019_pub/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Mar 2019 – Jun 2019. Beijing, CHN.&lt;/li&gt;
+&lt;li&gt;Research Assistant for prof. CHEN Xiaoou in Wangxuan Institute of Computer Technology at Peking University.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Main Information&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set up a series of quartet database from DCMI database shared by China Conservatory of Music.&lt;/li&gt;
+&lt;li&gt;Constructed an audio event detection model based on CRNN to detect and recognize instruments.&lt;/li&gt;
+&lt;li&gt;Evaluated the percussion, recall rate and F-measure of the model and CNN baseline model, and compared the difference among different quartet databases generate from different music skills or music types.&lt;/li&gt;
+&lt;li&gt;published (&lt;a href=&#39;../../files/publication.pdf&#39; target=&#39;_blank&#39;&gt;result&lt;/a&gt;) on Conference of Sound and Music Technology 2019.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
