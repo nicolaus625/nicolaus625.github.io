@@ -77,7 +77,7 @@ instruments technology.&lt;/p&gt;
 &lt;li&gt;Set up a series of quartet database from DCMI database shared by China Conservatory of Music.&lt;/li&gt;
 &lt;li&gt;Constructed an audio event detection model based on CRNN to detect and recognize instruments.&lt;/li&gt;
 &lt;li&gt;Evaluated the percussion, recall rate and F-measure of the model and CNN baseline model, and compared the difference among different quartet databases generate from different music skills or music types.&lt;/li&gt;
-&lt;li&gt;published (&lt;a href=&#39;../../files/publication.pdf&#39; target=&#39;_blank&#39;&gt;result&lt;/a&gt;) on Conference of Sound and Music Technology 2019.&lt;/li&gt;
+&lt;li&gt;published &lt;a href=&#39;../../files/publication.pdf&#39; target=&#39;_blank&#39;&gt;result&lt;/a&gt; on Conference of Sound and Music Technology 2019.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
