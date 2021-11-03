@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 11:29:43 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 22:05:06 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 02 Sep 2020 11:29:43 +0800</pubDate>
+      <pubDate>Tue, 02 Nov 2021 22:05:06 -0400</pubDate>
       <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
@@ -23,8 +23,24 @@
     <item>
       <title>MIR</title>
       <link>/tags/mir/</link>
-      <pubDate>Wed, 02 Sep 2020 11:29:43 +0800</pubDate>
+      <pubDate>Tue, 02 Nov 2021 22:05:06 -0400</pubDate>
       <guid>/tags/mir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internship</title>
+      <link>/tags/internship/</link>
+      <pubDate>Tue, 02 Nov 2021 21:49:27 -0400</pubDate>
+      <guid>/tags/internship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>/tags/other/</link>
+      <pubDate>Tue, 02 Nov 2021 21:49:27 -0400</pubDate>
+      <guid>/tags/other/</guid>
       <description></description>
     </item>
     
@@ -33,14 +49,6 @@
       <link>/tags/sound-event-detection/</link>
       <pubDate>Wed, 02 Sep 2020 11:29:43 +0800</pubDate>
       <guid>/tags/sound-event-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 02 Sep 2020 00:19:18 +0800</pubDate>
-      <guid>/tags/demo/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,23 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 22:48:26 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 21:33:32 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Link to Chinese Blogs on Zhihu (知乎)</title>
+      <link>/post/link/</link>
+      <pubDate>Tue, 02 Nov 2021 21:33:32 -0400</pubDate>
+      <guid>/post/link/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://www.zhihu.com/column/c_1277025635056648192&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;
+to zhihu column.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning How to Write Blog</title>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internship | MIRer</title>
+    <link>/tags/internship/</link>
+      <atom:link href="/tags/internship/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internship</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 21:49:27 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
+      <title>Internship</title>
+      <link>/tags/internship/</link>
+    </image>
+    
+    <item>
+      <title>Cover Song Detection &amp; Evaluation of Automatic Speech Recognition</title>
+      <link>/project/teencent2021/</link>
+      <pubDate>Tue, 02 Nov 2021 21:49:27 -0400</pubDate>
+      <guid>/project/teencent2021/</guid>
+      <description>&lt;p&gt;May 2020 &amp;ndash; Aug. 2021. Beijing, CHN. Summer internship in Tencent Holdings Limited. (Beijing)&lt;/p&gt;
+&lt;p&gt;Write literature review on coversong detection.&lt;/p&gt;
+&lt;p&gt;Reproduced and refined music separation &amp;amp; covering detection.&lt;/p&gt;
+&lt;p&gt;Evaluating different ASR models on business data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

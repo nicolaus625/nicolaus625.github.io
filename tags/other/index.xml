@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | MIRer</title>
+    <link>/tags/other/</link>
+      <atom:link href="/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 21:49:27 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
+      <title>Other</title>
+      <link>/tags/other/</link>
+    </image>
+    
+    <item>
+      <title>Cover Song Detection &amp; Evaluation of Automatic Speech Recognition</title>
+      <link>/project/teencent2021/</link>
+      <pubDate>Tue, 02 Nov 2021 21:49:27 -0400</pubDate>
+      <guid>/project/teencent2021/</guid>
+      <description>&lt;p&gt;May 2020 &amp;ndash; Aug. 2021. Beijing, CHN. Summer internship in Tencent Holdings Limited. (Beijing)&lt;/p&gt;
+&lt;p&gt;Write literature review on coversong detection.&lt;/p&gt;
+&lt;p&gt;Reproduced and refined music separation &amp;amp; covering detection.&lt;/p&gt;
+&lt;p&gt;Evaluating different ASR models on business data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TONE CONTOUR REALIZATION IN SUNG CANTONESE</title>
+      <link>/project/phonetics/</link>
+      <pubDate>Wed, 02 Sep 2020 00:19:18 +0800</pubDate>
+      <guid>/project/phonetics/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Nov. 2019 &amp;ndash; Jan. 2020. Beijing, CHN.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Class project&lt;/em&gt;, scored 92/100. Supervised by Associate prof. &lt;a href=&#39;https://chinese.pku.edu.cn/rwfc/1224333.htm&#39; target=&#39;_blank&#39;&gt;WANG Yunjia&lt;/a&gt;, department of Chinese Language and Literature, Peking University.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Final project of &lt;em&gt;Fundamental Chinese Phonetics&lt;/em&gt; course: A brief discussion on the relationship between the basic frequency and the lyric tone of Cantonese songs (class final paper see at &lt;a href=&#39;../../files/略论粤语歌曲基频与歌词声调的关联.pdf&#39; target=&#39;_blank&#39;&gt;略论粤语歌曲基频与歌词声调的关联&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Based on &lt;a href=&#39;https://pan.baidu.com/s/1hjZrIAGYvPX7zviB87aeFA&#39; target=&#39;_blank&#39;&gt;acoustic phonetics data&lt;/a&gt;(extraction code &amp;ldquo;uwr8&amp;rdquo; if needed), this paper discusses the influence of the fundamental frequency of cantonese songs on the tone of the lyrics. Eleven phonators (6 female and 5 male) aged between 18 and 22 years old were analyzed for the singing and lyric reading sound of the designated song, to explore the change of fundamental frequency over time, and the study tone involved four of the six tones in Cantonese.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;paires t-test&lt;/em&gt; of the acoustic data showed that :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;there was a significant difference in the slope of the fundamental frequency of lyric reading over time in tones with different tone values;&lt;/li&gt;
+&lt;li&gt;There is no significant difference in the slope of the fundamental frequency of the song over time between the lyrics of each tone;&lt;/li&gt;
+&lt;li&gt;There is a certain relationship between the basic frequency slope of each tone and the basic frequency slope of the song.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

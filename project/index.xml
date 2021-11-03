@@ -5,12 +5,33 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:21:40 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 22:05:06 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Learnable Frontend for Music, Speech and Audiow</title>
+      <link>/project/masterthesis/</link>
+      <pubDate>Tue, 02 Nov 2021 22:05:06 -0400</pubDate>
+      <guid>/project/masterthesis/</guid>
+      <description>&lt;p&gt;Design learnable frontends for deep learning models inspired by classic filters, multi-rate sampling &amp;amp; modulation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cover Song Detection &amp; Evaluation of Automatic Speech Recognition</title>
+      <link>/project/teencent2021/</link>
+      <pubDate>Tue, 02 Nov 2021 21:49:27 -0400</pubDate>
+      <guid>/project/teencent2021/</guid>
+      <description>&lt;p&gt;May 2020 &amp;ndash; Aug. 2021. Beijing, CHN. Summer internship in Tencent Holdings Limited. (Beijing)&lt;/p&gt;
+&lt;p&gt;Write literature review on coversong detection.&lt;/p&gt;
+&lt;p&gt;Reproduced and refined music separation &amp;amp; covering detection.&lt;/p&gt;
+&lt;p&gt;Evaluating different ASR models on business data.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tempo Detection of Chinese Pop Music</title>
@@ -21,7 +42,7 @@
 &lt;li&gt;Jun. 2020 &amp;ndash; Sept. 2020. Beijing, CHN.&lt;/li&gt;
 &lt;li&gt;Summer internship in Beijing Deepmusic Technology Co. LTD&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Write literature review on song speed detection.&lt;/p&gt;
+&lt;p&gt;Write literature review on song tempo/speed detection.&lt;/p&gt;
 &lt;p&gt;Designing new model on tempo detection based on BiLSTM and Temporal Convolution Network(TCN) and compared them with the baselines of Librosa and MadMOM using the data provided by Renren Karaoke Company (more than 2000 songs manually marked by my colleagues).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;In the music with stable speed or with or a slightly slower ending, the accuracy of tempo recognition is above 87% without considering the double frequency (error is less than or equal to 0.01) and above 98% general accuracy (error is less than 0.1). While MadMOM less than 90%.&lt;/li&gt;
