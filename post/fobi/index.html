@@ -28,10 +28,12 @@
   
     
   
-  <meta name="description" content="Mater Student in School of Music, College of Fine Arts">
+  <meta name="description" content="Suppose $A=(a_1, a_2,\cdots, a_N)^t$ is a $n$ dimension vectors, you can actually carry out the PCA $S = WA$ in the following ways:
+$E[SS^t]$ should be diagonal, since the components inside $S$ such as $s_1$ and $s_2$ should be uncorrelated, that is $E[s_1s_2]=0=E[s_1]E[s_2]$. (Here, we suppose that $A$ has zero mean, as well as $S=WA$)
+The point is that, the uncorrelation is simply second order moment decomposition, which is not enough to make good use of the independence assumption (actually far from independence).">
 
   
-  <link rel="alternate" hreflang="en-us" href="/post/">
+  <link rel="alternate" hreflang="en-us" href="/post/fobi/">
 
   
 
@@ -213,14 +215,12 @@
 
 
   
-  <link rel="alternate" href="/post/index.xml" type="application/rss+xml" title="MIRer">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/post/">
+  <link rel="canonical" href="/post/fobi/">
 
   
   
@@ -234,18 +234,67 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="MIRer">
-  <meta property="og:url" content="/post/">
-  <meta property="og:title" content="Posts | MIRer">
-  <meta property="og:description" content="Mater Student in School of Music, College of Fine Arts"><meta property="og:image" content="/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="/post/fobi/">
+  <meta property="og:title" content="Additional Notes in ICA especially for FOBI | MIRer">
+  <meta property="og:description" content="Suppose $A=(a_1, a_2,\cdots, a_N)^t$ is a $n$ dimension vectors, you can actually carry out the PCA $S = WA$ in the following ways:
+$E[SS^t]$ should be diagonal, since the components inside $S$ such as $s_1$ and $s_2$ should be uncorrelated, that is $E[s_1s_2]=0=E[s_1]E[s_2]$. (Here, we suppose that $A$ has zero mean, as well as $S=WA$)
+The point is that, the uncorrelation is simply second order moment decomposition, which is not enough to make good use of the independence assumption (actually far from independence)."><meta property="og:image" content="/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-11-15T14:43:44-05:00">
+    
+      <meta property="article:published_time" content="2021-11-15T14:43:44-05:00">
+    
+    <meta property="article:modified_time" content="2021-11-15T14:43:44-05:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+  
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/fobi/"
+  },
+  "headline": "Additional Notes in ICA especially for FOBI",
+  
+  "datePublished": "2021-11-15T14:43:44-05:00",
+  "dateModified": "2021-11-15T14:43:44-05:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "马英浩 (Nicolaus) MA Yinghao"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "MIRer",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "img//"
+    }
+  },
+  "description": "Suppose $A=(a_1, a_2,\\cdots, a_N)^t$ is a $n$ dimension vectors, you can actually carry out the PCA $S = WA$ in the following ways:\n$E[SS^t]$ should be diagonal, since the components inside $S$ such as $s_1$ and $s_2$ should be uncorrelated, that is $E[s_1s_2]=0=E[s_1]E[s_2]$. (Here, we suppose that $A$ has zero mean, as well as $S=WA$)\nThe point is that, the uncorrelation is simply second order moment decomposition, which is not enough to make good use of the independence assumption (actually far from independence)."
+}
+</script>
+
+  
 
   
 
@@ -253,10 +302,13 @@
   
 
 
+  
 
 
 
-  <title>Posts | MIRer</title>
+
+
+  <title>Additional Notes in ICA especially for FOBI | MIRer</title>
 
 </head>
 
@@ -557,78 +609,33 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <article class="article">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1>Additional Notes in ICA especially for FOBI</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>Posts</h1>
-
-  
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-
-  
-
-  
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/fobi/" >Additional Notes in ICA especially for FOBI</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Suppose $A=(a_1, a_2,\cdots, a_N)^t$ is a $n$ dimension vectors, you can actually carry out the PCA $S = WA$ in the following ways: …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
 
 
 <div class="article-metadata">
@@ -664,189 +671,293 @@
 
 </div>
 
-      
-    </div>
-
     
 
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </div>
 
-    
-  
-    
-      
 
 
+  <div class="article-container">
 
-
-
-
-
-
-
-
-
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/link/" >Link to Chinese Blogs on Zhihu (知乎)</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Nov 2, 2021
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/name_post/" >Learning How to Write Blog</a>
-    </h3>
-
-    
     <div class="article-style">
-      practice of displaying posts(blogs)
+      <p>Suppose $A=(a_1, a_2,\cdots, a_N)^t$ is a $n$ dimension vectors, you can actually carry out the PCA $S = WA$ in the following ways:</p>
+<p>$E[SS^t]$ should be diagonal, since the components inside $S$ such as $s_1$ and $s_2$ should be uncorrelated, that is $E[s_1s_2]=0=E[s_1]E[s_2]$. <strong>(Here, we suppose that $A$ has zero mean, as well as $S=WA$)</strong></p>
+<p>The point is that, the uncorrelation is simply second order moment decomposition, which is not enough to make good use of the independence assumption (actually far from independence). Recall that the independent variables are uncorrelated but uncorrelated R.V. are generally not independent, except for the case the two R.V. are both follow binary distribution or joint Gaussian distribution. We should find something more, either higher order tensor decomposition, or use neg-entropy as a virtue / specific excellence / indicator of independence.</p>
+<p>if you choose some function other than higher order moment (such as Kurtosis or neg-entropy), you will get some kind of Fast-ICA algorithm in, which I will introduce to you guys in the following lecture. But if you choose to use the higher order tensor decomposition, you can still get a bunch of algorithm depends on which moment or the function of moment you choose to use. If you use the third moment, it will be harder to evaluate compared to fourth order, but you can still go to the <strong>Robust FOBI</strong> algorithm given by Vardoso. If you use the fourth moment, it will give you <strong>FOBI</strong> algorithm which is one of the most commonly used ICA implement via tensor decomposition. You can also use something looks weird to get <strong>Joint Approximation Diagonalization of Eigen- matrices (JADE)</strong>, you can find a short introduction in hidden slide.</p>
+<p>Back to the FOBI algorithm, we will evaluate $D_A:=E[A^tAAA^t]$ for any given random vector $A=(a_1, a_2,\cdots, a_N)^t$ and all the entry of matrix $D_A$ will represent some kind of fourh order moment, like the following cases Bhiksha display in class</p>
+<p>$S=(s_1, s_2)^t$, then $D_S$ is a 2 by 2 matrix as follow: $$D_S = \begin{bmatrix} (s_1^2+s_2^2)s_1^2 &amp; (s_1^2+s_2^2)s_1s_2 \ (s_1^2+s_2^2)s_2s_1 &amp; (s_1^2+s_2^2)s_2^2 \end{bmatrix}$$</p>
+<p>Ingeneral, $D_A$ will be diagonal if the components of $A$ (that is, $a_1$, $a_2$, &hellip;, $a_N$ are pairwisely independent). ALthough not vise versa, we can get some kind of &ldquo;pseudo independence&rdquo; if we can diagonalize $D_A$. So what FOBI-ICA does is actually find some useful $W$ (and turn $X$ to $\hat{X}$ at the same time actually), to get a diagonalized $D_S$ correspondent to the (pseudo) independent source $S$ from the indicator matrix $D_X$ from your observation $X$.</p>
+<p>But, recall that $S=W_0X$, the problem is that if you attempt to calculate $D_S=E[(X^tW_0^t)(W_0X)(W_0X)(X^tW_0^t)]$, you will feel Frustrated and get cold feet. So the strategy is to whiten the data by the following steps (forget the intuition I'm trying to convey in the slides why people came out the fancy idea that we can actually whiten the data):</p>
+<ul>
+<li>
+<p>$X:=X-\mu_x$ to make X zero mean</p>
+</li>
+<li>
+<p>evaluate the eighen decomposition (also singular value decomposition) of $E[XX^t]=P\Lambda P^t$, where $\Lambda$ is a diagnal matrix and $P$ is a unitary matrix</p>
+</li>
+<li>
+<p>whiten the data $\hat{X}=\Lambda^{-0.5}P^t$</p>
+</li>
+</ul>
+<p>In this way, you can prove that $e[\hat{X}\hat{X}^t] = I$ and the transformation between $\hat{X}$ and $S$ is a unitary matrix. (I proved them in class, hopfully they did not scare you.)</p>
+<p>And with these 2 good properties listed above, we can come to the following equation from $D_S=E[(\hat{X}^tW^t)(W\hat{X})(W\hat{X})(\hat{X}^tW^t)]$:</p>
+<p><img src="../../files/fobi1.png" alt="image.png"></p>
+<p>this means that if you would like to diagonalize matrix $D_S$ with parameter $W$, the only thing you need to do is to whiten the data from $X$ to $\hat{X}$ and get the singular value decomposition / eigen value decomposition of indecator matrix (consist of the forth order moment) of $\hat{X}$. From the decomposition, you can get the transformation $W$ from $X$ to $S$.</p>
+<p>To sum up, you simply get the following procedure</p>
+<p><img src="../../files/fobi2.png" alt="image.png"></p>
+<p>P.S. some remarks for FOBI</p>
+<ul>
+<li>
+<p>(0) Someone read the lecture notes on ICA in previous year and ask the relation between FOBI and Kurtosis / Neg-entropy and Fast-ICA. FOBI use tensor decomposition to implement the (pseudo) independent while Fast-ICA use the measure of Gaussian, Kurtosis and Neg-entropy are two kind of them. You can also try the one with mutual information function although we did not mentioned this function in the information theory lecture last week.</p>
+</li>
+<li>
+<p>(1) FOBI is one of the first and most simple ICA methods and you can easily implement it on your own as ski-learn dows not implement it for you I believe.</p>
+</li>
+<li>
+<p>(2) Whiten data can reduce the freedom dimension of $W$ when you tring to diagonalize $D_S=E[(X^tW_0^t)(W_0X)(W_0X)(X^tW_0^t)]$ and fasten the convergence. To be specific, the dimension of $W_0$ is $N^2$ or $N^2-1$ if condition on $\left| W_0 \right|=1$, while the dimension of unitary matrix $W$ is only $\frac{N^2-N}{2}$.</p>
+</li>
+<li>
+<p>(3) The most notable drawback of FOBI require all the sources have quite distant in their fourth order moment values, implicating the failure in case of having several mechanisms characterized with the same distribution</p>
+</li>
+<li>
+<p>(4) FastICA based on Gaussian measure generally performances better compared to FOBI or something like that in case of high-dimensional data. So industry often chooses Fast-ICA for linear cases</p>
+</li>
+<li>
+<p>(5) Fast-ICA based on Kurtosis is not robust enough as you can not get exact Kurtosis from less sample / observation of the variable, although it is easier to implement. While Fast-ICA based on Neg-entropy is not use Neg-entropy itself actually, as we all see that you can hardly evaluate Neg-entropy from even 1 million sample of observation. The approach is to find some approximation to Neg-entropy which can both be a robust measure to Gaussian, and not that hard to evaluate from the samples / observation. The latter should be the most commonly used approaches on Fast-ICA</p>
+</li>
+</ul>
+<p>Hopefully, this additional note can help you guys clear the following question: (1) why fourth order? (2) where is the tensor <strong>decomposition</strong> happens? (3) why we need to whiten the data (4) why $W$ is unitary matrix (5) relation between fobi and fast-ica and other methods (6) what is the connection between ICA and PCA &hellip;</p>
+<p>If you still have some questions about it, you can refer to the 
+<a href="https://mlsp2021.cs.cmu.edu/ppt/Lecture%20ICA%20new2.pdf" target="_blank">lecture notes</a>.</p>
+
     </div>
+
     
 
-    <div class="stream-meta article-metadata">
 
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
       
-
+      
       
         
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/post/fobi/&amp;text=Additional%20Notes%20in%20ICA%20especially%20for%20FOBI" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/post/fobi/&amp;t=Additional%20Notes%20in%20ICA%20especially%20for%20FOBI" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
-    Sep 1, 2020
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Additional%20Notes%20in%20ICA%20especially%20for%20FOBI&amp;body=/post/fobi/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/post/fobi/&amp;title=Additional%20Notes%20in%20ICA%20especially%20for%20FOBI" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Additional%20Notes%20in%20ICA%20especially%20for%20FOBI%20/post/fobi/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/post/fobi/&amp;title=Additional%20Notes%20in%20ICA%20especially%20for%20FOBI" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card content-widget-hr">
+    
       
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu77c632cda908415f7950f9eda5dd59fd_79155_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/">马英浩 (Nicolaus) MA Yinghao</a></h5>
+      <h6 class="card-subtitle">Mater Student in School of Music, College of Fine Arts</h6>
+      <p class="card-text">MA Yinghao, master student of CMU. Research interests include music information retireval, audio signal processing and machine learning matter.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:yinghaom@andrew.cmu.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.facebook.com/profile.php?id=100022408661693" target="_blank" rel="noopener">
+        <i class="fab fa-facebook"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/nicolaus625" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/CV%20Nov2021.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
     </div>
-
-    
-
   </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
 
-    
-  
+
+
+
+
+
+
+
 
   
+  
 
 
-</div>
+
+  </div>
+</article>
 
       
 
