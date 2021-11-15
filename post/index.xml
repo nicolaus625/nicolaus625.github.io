@@ -38,10 +38,10 @@
 &lt;/ul&gt;
 &lt;p&gt;In this way, you can prove that $e[\hat{X}\hat{X}^t] = I$ and the transformation between $\hat{X}$ and $S$ is a unitary matrix. (I proved them in class, hopfully they did not scare you.)&lt;/p&gt;
 &lt;p&gt;And with these 2 good properties listed above, we can come to the following equation from $D_S=E[(\hat{X}^tW^t)(W\hat{X})(W\hat{X})(\hat{X}^tW^t)]$:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../files/fobi1.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/fobi1.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;this means that if you would like to diagonalize matrix $D_S$ with parameter $W$, the only thing you need to do is to whiten the data from $X$ to $\hat{X}$ and get the singular value decomposition / eigen value decomposition of indecator matrix (consist of the forth order moment) of $\hat{X}$. From the decomposition, you can get the transformation $W$ from $X$ to $S$.&lt;/p&gt;
 &lt;p&gt;To sum up, you simply get the following procedure&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../files/fobi2.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/fobi2.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;P.S. some remarks for FOBI&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
