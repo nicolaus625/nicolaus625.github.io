@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | MIRer</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Sep 2023 18:24:35 +0100</lastBuildDate>
+    <title>SSL | MIRer</title>
+    <link>/tags/ssl/</link>
+      <atom:link href="/tags/ssl/index.xml" rel="self" type="application/rss+xml" />
+    <description>SSL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 21:40:17 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>SSL</title>
+      <link>/tags/ssl/</link>
     </image>
+    
+    <item>
+      <title>Bridging Music &amp; Text with Pre-trained Models for Music Captioning and QA</title>
+      <link>/project/musilingo/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/musilingo/</guid>
+      <description>&lt;p&gt;07/2023 – present&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed Music Instruct (MI) query-response dataset based on captions &amp;amp; well-designed prompts to GPT-4.&lt;/li&gt;
+&lt;li&gt;Achieved cutting-edge performance in question answering on both MusicQA and Music Instruct datasets.&lt;/li&gt;
+&lt;li&gt;Employed instruct fine-tuning techniques on MI to attain state-of-the-art (SOTA) results in captioning.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised TrainingCCF none</title>
+      <link>/project/mert/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/mert/</guid>
+      <description>&lt;p&gt;08/2022 – 05/2023&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built self-supervised learning systems, acquiring 50k+ downloading of checkpoints on Huggingface.&lt;/li&gt;
+&lt;li&gt;Replaced the pseudo-tag from MFCCs to Chroma music features for harmonic information.&lt;/li&gt;
+&lt;li&gt;Utilising deep features like Encodec instead of k-means for scaling up models to 1 B parameters.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response</title>
@@ -23,20 +53,6 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/zihaod/musilingo&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://huggingface.co/datasets/m-a-p/Music-Instruct/tree/main&#34; target=&#34;_blank&#34;&gt;Dataset link.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;To be submitted to ****2023.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MARBLE: Music Audio Representation Benchmark for Universal Evaluation</title>
-      <link>/publication/marble/</link>
-      <pubDate>Sun, 18 Jun 2023 18:24:35 +0100</pubDate>
-      <guid>/publication/marble/</guid>
-      <description>&lt;p&gt;Abstract: In the era of extensive intersection between art and Artificial Intelligence (AI), such as image generation and fiction co-creation, AI for music remains relatively nascent, particularly in music understanding. This is evident in the limited work on deep music representations, the scarcity of large-scale datasets, and the absence of a universal and community-driven benchmark. To address this issue, we introduce the Music Audio Representation Benchmark for universaL Evaluation, termed MARBLE. It aims to provide a benchmark for various Music Information Retrieval (MIR) tasks by defining a comprehensive taxonomy with four hierarchy levels, including acoustic, performance, score, and high-level description. We then establish a unified protocol based on 14 tasks on 8 public-available datasets, providing a fair and standard assessment of representations of all open-sourced pre-trained models developed on music recordings as baselines. Besides, MARBLE offers an easy-to-use, extendable, and reproducible suite for the community, with a clear statement on copyright issues on datasets. Results suggest recently proposed large-scale pre-trained musical language models perform the best in most tasks, with room for further improvement. The leaderboard and toolkit repository are published at this https URL to promote future music AI research.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2306.105488&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/a43992899/MARBLE-Benchmark&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Accepted by NeurIPS 2023, dataset and benchmark track.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -71,19 +87,6 @@
     </item>
     
     <item>
-      <title>Lyricwhiz: Robust multilingual zero-shot lyrics transcription by whispering to chatgptCCF none</title>
-      <link>/publication/lyricwhiz/</link>
-      <pubDate>Fri, 14 Apr 2023 17:24:35 +0100</pubDate>
-      <guid>/publication/lyricwhiz/</guid>
-      <description>&lt;p&gt;Abstract: We introduce LyricWhiz, a robust, multilingual, and zero-shot automatic lyrics transcription method achieving state-of-the-art performance on various lyrics transcription datasets, even in challenging genres such as rock and metal. Our novel, training-free approach utilizes Whisper, a weakly supervised robust speech recognition model, and GPT-4, today&#39;s most performant chat-based large language model. In the proposed method, Whisper functions as the &amp;ldquo;ear&amp;rdquo; by transcribing the audio, while GPT-4 serves as the &amp;ldquo;brain,&amp;rdquo; acting as an annotator with a strong performance for contextualized output selection and correction. Our experiments show that LyricWhiz significantly reduces Word Error Rate compared to existing methods in English and can effectively transcribe lyrics across multiple languages. Furthermore, we use LyricWhiz to create the first publicly available, large-scale, multilingual lyrics transcription dataset with a CC-BY-NC-SA copyright license, based on MTG-Jamendo, and offer a human-annotated subset for noise level estimation and evaluation. We anticipate that our proposed method and dataset will advance the development of multilingual lyrics transcription, a challenging and emerging task.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2306.17103.pdf&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Accepted by ISMIR 2023.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Large-Scale Pretrained Model for Self-Supervised Music Audio Representation Learning</title>
       <link>/publication/dmrn2022/</link>
       <pubDate>Mon, 19 Dec 2022 18:24:35 +0100</pubDate>
@@ -96,19 +99,6 @@
 &lt;li&gt;
 &lt;p&gt;Presented by DMRN workshop 2022.&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learnable Front Ends Based on Temporal Modulation for Music TaggingCCF none</title>
-      <link>/publication/tmnn/</link>
-      <pubDate>Mon, 05 Dec 2022 18:24:35 +0100</pubDate>
-      <guid>/publication/tmnn/</guid>
-      <description>&lt;p&gt;Abstract: While end-to-end systems are becoming popular in auditory signal processing including automatic music tagging, models using raw audio as input needs a large amount of data and computational resources without domain knowledge. Inspired by the fact that temporal modulation is regarded as an essential component in auditory perception, we introduce the Temporal Modulation Neural Network (TMNN) that combines Mel-like data-driven front ends and temporal modulation filters with a simple ResNet back end. The structure includes a set of temporal modulation filters to capture long-term patterns in all frequency channels. Experimental results show that the proposed front ends surpass state-of-the-art (SOTA) methods on the MagnaTagATune dataset in automatic music tagging, and they are also helpful for keyword spotting on speech commands. Moreover, the model performance for each tag suggests that genre or instrument tags with complex rhythm and mood tags can especially be improved with temporal modulation.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2211.15254.pdf8&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Accepted by ISMIR 2023 late breaking demo.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -134,26 +124,19 @@
     </item>
     
     <item>
-      <title>基于机器学习的笛子演奏技法 识别研究与实现 (Research &amp; implementation of Chinese flute playing technique recognition based on ML)</title>
-      <link>/publication/graduation/</link>
-      <pubDate>Wed, 02 Sep 2020 11:29:43 +0800</pubDate>
-      <guid>/publication/graduation/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Feb. 2020 – May 2020. Beijing, CHN.&lt;/li&gt;
-&lt;li&gt;One of the graduation theses that awarded the outstanding &lt;a href=&#39;../../files/毕设论文.pdf&#39; target=&#39;_blank&#39;&gt;paper&lt;/a&gt; honor of School of Mathematical Science, Peking University.&lt;/li&gt;
-&lt;li&gt;Supervised by prof. CHEN Xiaoou in Wangxuan Institute of Computer Technology, PKU.&lt;/li&gt;
+      <title>MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised TrainingCCF none</title>
+      <link>/project/tmnn/</link>
+      <pubDate>Mon, 29 Aug 2022 21:40:17 +0100</pubDate>
+      <guid>/project/tmnn/</guid>
+      <description>&lt;p&gt;09/2021 – 07/2022&lt;/p&gt;
+&lt;p&gt;Research Assistant, Supervised by Prof. Richard Stern, Carnegie Mellon University&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Constructed 2-layer learnable front ends in Temporal Modulation Neural Network (TMNN) that combines
+Mel-like data-driven front ends and temporal modulation filters.&lt;/li&gt;
+&lt;li&gt;Examined the proposed front ends surpass state-of-the-art (SOTA) methods on the MagnaTagATune dataset in
+automatic music tagging, and they are also helpful for keyword spotting on speech commands.&lt;/li&gt;
+&lt;li&gt;Analysis of the model performance among tags with different genres and instrument tags.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;see at project for more information.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>基于卷积循环神经网的复音音乐中国民族乐器检测 (Detection of Chinese Instrumental Quartet based on CRNN)</title>
-      <link>/publication/csmt2019/</link>
-      <pubDate>Tue, 01 Sep 2020 23:22:00 +0800</pubDate>
-      <guid>/publication/csmt2019/</guid>
-      <description>&lt;p&gt;Participant of the conference.&lt;/p&gt;
-&lt;p&gt;Published a paper entitled “基于卷积循环神经网的复音音乐中国民族乐器检测”(&lt;a href=&#39;../../files/publication.pdf&#39; target=&#39;_blank&#39;&gt;Detection of Chinese Instrumental Quartet based on CRNN.pdf&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     

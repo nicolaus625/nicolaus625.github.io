@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>benchmark | MIRer</title>
+    <link>/tags/benchmark/</link>
+      <atom:link href="/tags/benchmark/index.xml" rel="self" type="application/rss+xml" />
+    <description>benchmark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 21:40:17 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
+      <title>benchmark</title>
+      <link>/tags/benchmark/</link>
+    </image>
+    
+    <item>
+      <title>MARBLE: Music Audio Representation Benchmark for Universal Evaluation</title>
+      <link>/project/marble/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/marble/</guid>
+      <description>&lt;p&gt;01/2023 – 06/2023&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing the downstream tasks, datasets, evaluation metrics and state-of-the-art results.&lt;/li&gt;
+&lt;li&gt;Implementing the mir_eval metrics with torchmetrics and developing utilisation for sequential tasks.&lt;/li&gt;
+&lt;li&gt;Establishing a fair, reproducible and universal music information retrieval benchmark for future work.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marble-bm.sheffield.ac.uk/&#34; target=&#34;_blank&#34;&gt;MARBLE website.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MARBLE: Music Audio Representation Benchmark for Universal Evaluation</title>
+      <link>/publication/marble/</link>
+      <pubDate>Sun, 18 Jun 2023 18:24:35 +0100</pubDate>
+      <guid>/publication/marble/</guid>
+      <description>&lt;p&gt;Abstract: In the era of extensive intersection between art and Artificial Intelligence (AI), such as image generation and fiction co-creation, AI for music remains relatively nascent, particularly in music understanding. This is evident in the limited work on deep music representations, the scarcity of large-scale datasets, and the absence of a universal and community-driven benchmark. To address this issue, we introduce the Music Audio Representation Benchmark for universaL Evaluation, termed MARBLE. It aims to provide a benchmark for various Music Information Retrieval (MIR) tasks by defining a comprehensive taxonomy with four hierarchy levels, including acoustic, performance, score, and high-level description. We then establish a unified protocol based on 14 tasks on 8 public-available datasets, providing a fair and standard assessment of representations of all open-sourced pre-trained models developed on music recordings as baselines. Besides, MARBLE offers an easy-to-use, extendable, and reproducible suite for the community, with a clear statement on copyright issues on datasets. Results suggest recently proposed large-scale pre-trained musical language models perform the best in most tasks, with room for further improvement. The leaderboard and toolkit repository are published at this https URL to promote future music AI research.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2306.105488&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a43992899/MARBLE-Benchmark&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Accepted by NeurIPS 2023, dataset and benchmark track.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

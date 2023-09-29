@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datasets | MIRer</title>
+    <link>/tags/datasets/</link>
+      <atom:link href="/tags/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <description>datasets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 21:40:17 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
+      <title>datasets</title>
+      <link>/tags/datasets/</link>
+    </image>
+    
+    <item>
+      <title>Bridging Music &amp; Text with Pre-trained Models for Music Captioning and QA</title>
+      <link>/project/musilingo/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/musilingo/</guid>
+      <description>&lt;p&gt;07/2023 – present&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed Music Instruct (MI) query-response dataset based on captions &amp;amp; well-designed prompts to GPT-4.&lt;/li&gt;
+&lt;li&gt;Achieved cutting-edge performance in question answering on both MusicQA and Music Instruct datasets.&lt;/li&gt;
+&lt;li&gt;Employed instruct fine-tuning techniques on MI to attain state-of-the-art (SOTA) results in captioning.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MARBLE: Music Audio Representation Benchmark for Universal Evaluation</title>
+      <link>/project/marble/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/marble/</guid>
+      <description>&lt;p&gt;01/2023 – 06/2023&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing the downstream tasks, datasets, evaluation metrics and state-of-the-art results.&lt;/li&gt;
+&lt;li&gt;Implementing the mir_eval metrics with torchmetrics and developing utilisation for sequential tasks.&lt;/li&gt;
+&lt;li&gt;Establishing a fair, reproducible and universal music information retrieval benchmark for future work.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marble-bm.sheffield.ac.uk/&#34; target=&#34;_blank&#34;&gt;MARBLE website.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response</title>
+      <link>/publication/musilingo/</link>
+      <pubDate>Tue, 19 Sep 2023 18:24:35 +0100</pubDate>
+      <guid>/publication/musilingo/</guid>
+      <description>&lt;p&gt;Abstract: Large Language Models (LLMs) have shown immense potential in multimodal applications, yet the convergence of textual and musical domains remains relatively unexplored. To address this gap, we present MusiLingo, a novel system for music caption generation and music-related query responses. MusiLingo employs a single projection layer to align music representations from the pre-trained frozen music audio model MERT with the frozen LLaMA language model, bridging the gap between music audio and textual contexts. We train it on an extensive music caption dataset and fine-tune it with instructional data. Due to the scarcity of high-quality music Q&amp;amp;A datasets, we created the MusicInstruct (MI) dataset from MusicCaps, tailored for open-ended music inquiries. Empirical evaluations demonstrate its competitive performance in generating music captions and composing music-related Q&amp;amp;A pairs. Our introduced dataset enables notable advancements beyond previous ones.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2309.08730.pdf&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zihaod/musilingo&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/datasets/m-a-p/Music-Instruct/tree/main&#34; target=&#34;_blank&#34;&gt;Dataset link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;To be submitted to ****2023.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MARBLE: Music Audio Representation Benchmark for Universal Evaluation</title>
+      <link>/publication/marble/</link>
+      <pubDate>Sun, 18 Jun 2023 18:24:35 +0100</pubDate>
+      <guid>/publication/marble/</guid>
+      <description>&lt;p&gt;Abstract: In the era of extensive intersection between art and Artificial Intelligence (AI), such as image generation and fiction co-creation, AI for music remains relatively nascent, particularly in music understanding. This is evident in the limited work on deep music representations, the scarcity of large-scale datasets, and the absence of a universal and community-driven benchmark. To address this issue, we introduce the Music Audio Representation Benchmark for universaL Evaluation, termed MARBLE. It aims to provide a benchmark for various Music Information Retrieval (MIR) tasks by defining a comprehensive taxonomy with four hierarchy levels, including acoustic, performance, score, and high-level description. We then establish a unified protocol based on 14 tasks on 8 public-available datasets, providing a fair and standard assessment of representations of all open-sourced pre-trained models developed on music recordings as baselines. Besides, MARBLE offers an easy-to-use, extendable, and reproducible suite for the community, with a clear statement on copyright issues on datasets. Results suggest recently proposed large-scale pre-trained musical language models perform the best in most tasks, with room for further improvement. The leaderboard and toolkit repository are published at this https URL to promote future music AI research.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2306.105488&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a43992899/MARBLE-Benchmark&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Accepted by NeurIPS 2023, dataset and benchmark track.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lyricwhiz: Robust multilingual zero-shot lyrics transcription by whispering to chatgptCCF none</title>
+      <link>/publication/lyricwhiz/</link>
+      <pubDate>Fri, 14 Apr 2023 17:24:35 +0100</pubDate>
+      <guid>/publication/lyricwhiz/</guid>
+      <description>&lt;p&gt;Abstract: We introduce LyricWhiz, a robust, multilingual, and zero-shot automatic lyrics transcription method achieving state-of-the-art performance on various lyrics transcription datasets, even in challenging genres such as rock and metal. Our novel, training-free approach utilizes Whisper, a weakly supervised robust speech recognition model, and GPT-4, today&#39;s most performant chat-based large language model. In the proposed method, Whisper functions as the &amp;ldquo;ear&amp;rdquo; by transcribing the audio, while GPT-4 serves as the &amp;ldquo;brain,&amp;rdquo; acting as an annotator with a strong performance for contextualized output selection and correction. Our experiments show that LyricWhiz significantly reduces Word Error Rate compared to existing methods in English and can effectively transcribe lyrics across multiple languages. Furthermore, we use LyricWhiz to create the first publicly available, large-scale, multilingual lyrics transcription dataset with a CC-BY-NC-SA copyright license, based on MTG-Jamendo, and offer a human-annotated subset for noise level estimation and evaluation. We anticipate that our proposed method and dataset will advance the development of multilingual lyrics transcription, a challenging and emerging task.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2306.17103.pdf&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Accepted by ISMIR 2023.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

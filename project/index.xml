@@ -5,12 +5,75 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 22:05:06 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 21:40:17 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Bridging Music &amp; Text with Pre-trained Models for Music Captioning and QA</title>
+      <link>/project/musilingo/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/musilingo/</guid>
+      <description>&lt;p&gt;07/2023 – present&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed Music Instruct (MI) query-response dataset based on captions &amp;amp; well-designed prompts to GPT-4.&lt;/li&gt;
+&lt;li&gt;Achieved cutting-edge performance in question answering on both MusicQA and Music Instruct datasets.&lt;/li&gt;
+&lt;li&gt;Employed instruct fine-tuning techniques on MI to attain state-of-the-art (SOTA) results in captioning.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MARBLE: Music Audio Representation Benchmark for Universal Evaluation</title>
+      <link>/project/marble/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/marble/</guid>
+      <description>&lt;p&gt;01/2023 – 06/2023&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing the downstream tasks, datasets, evaluation metrics and state-of-the-art results.&lt;/li&gt;
+&lt;li&gt;Implementing the mir_eval metrics with torchmetrics and developing utilisation for sequential tasks.&lt;/li&gt;
+&lt;li&gt;Establishing a fair, reproducible and universal music information retrieval benchmark for future work.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marble-bm.sheffield.ac.uk/&#34; target=&#34;_blank&#34;&gt;MARBLE website.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised TrainingCCF none</title>
+      <link>/project/mert/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/mert/</guid>
+      <description>&lt;p&gt;08/2022 – 05/2023&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built self-supervised learning systems, acquiring 50k+ downloading of checkpoints on Huggingface.&lt;/li&gt;
+&lt;li&gt;Replaced the pseudo-tag from MFCCs to Chroma music features for harmonic information.&lt;/li&gt;
+&lt;li&gt;Utilising deep features like Encodec instead of k-means for scaling up models to 1 B parameters.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised TrainingCCF none</title>
+      <link>/project/tmnn/</link>
+      <pubDate>Mon, 29 Aug 2022 21:40:17 +0100</pubDate>
+      <guid>/project/tmnn/</guid>
+      <description>&lt;p&gt;09/2021 – 07/2022&lt;/p&gt;
+&lt;p&gt;Research Assistant, Supervised by Prof. Richard Stern, Carnegie Mellon University&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Constructed 2-layer learnable front ends in Temporal Modulation Neural Network (TMNN) that combines
+Mel-like data-driven front ends and temporal modulation filters.&lt;/li&gt;
+&lt;li&gt;Examined the proposed front ends surpass state-of-the-art (SOTA) methods on the MagnaTagATune dataset in
+automatic music tagging, and they are also helpful for keyword spotting on speech commands.&lt;/li&gt;
+&lt;li&gt;Analysis of the model performance among tags with different genres and instrument tags.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Learnable Frontend for Music, Speech and Audiow</title>

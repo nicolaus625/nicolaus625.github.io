@@ -5,12 +5,196 @@
     <link>/tags/mir/</link>
       <atom:link href="/tags/mir/index.xml" rel="self" type="application/rss+xml" />
     <description>MIR</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 22:05:06 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 21:40:17 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>MIR</title>
       <link>/tags/mir/</link>
     </image>
+    
+    <item>
+      <title>Bridging Music &amp; Text with Pre-trained Models for Music Captioning and QA</title>
+      <link>/project/musilingo/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/musilingo/</guid>
+      <description>&lt;p&gt;07/2023 – present&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed Music Instruct (MI) query-response dataset based on captions &amp;amp; well-designed prompts to GPT-4.&lt;/li&gt;
+&lt;li&gt;Achieved cutting-edge performance in question answering on both MusicQA and Music Instruct datasets.&lt;/li&gt;
+&lt;li&gt;Employed instruct fine-tuning techniques on MI to attain state-of-the-art (SOTA) results in captioning.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MARBLE: Music Audio Representation Benchmark for Universal Evaluation</title>
+      <link>/project/marble/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/marble/</guid>
+      <description>&lt;p&gt;01/2023 – 06/2023&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing the downstream tasks, datasets, evaluation metrics and state-of-the-art results.&lt;/li&gt;
+&lt;li&gt;Implementing the mir_eval metrics with torchmetrics and developing utilisation for sequential tasks.&lt;/li&gt;
+&lt;li&gt;Establishing a fair, reproducible and universal music information retrieval benchmark for future work.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marble-bm.sheffield.ac.uk/&#34; target=&#34;_blank&#34;&gt;MARBLE website.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised TrainingCCF none</title>
+      <link>/project/mert/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/project/mert/</guid>
+      <description>&lt;p&gt;08/2022 – 05/2023&lt;/p&gt;
+&lt;p&gt;Supervised by Dr Emmanouil Benetos, Centre for Digital Music, Queen Mary University of London&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built self-supervised learning systems, acquiring 50k+ downloading of checkpoints on Huggingface.&lt;/li&gt;
+&lt;li&gt;Replaced the pseudo-tag from MFCCs to Chroma music features for harmonic information.&lt;/li&gt;
+&lt;li&gt;Utilising deep features like Encodec instead of k-means for scaling up models to 1 B parameters.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response</title>
+      <link>/publication/musilingo/</link>
+      <pubDate>Tue, 19 Sep 2023 18:24:35 +0100</pubDate>
+      <guid>/publication/musilingo/</guid>
+      <description>&lt;p&gt;Abstract: Large Language Models (LLMs) have shown immense potential in multimodal applications, yet the convergence of textual and musical domains remains relatively unexplored. To address this gap, we present MusiLingo, a novel system for music caption generation and music-related query responses. MusiLingo employs a single projection layer to align music representations from the pre-trained frozen music audio model MERT with the frozen LLaMA language model, bridging the gap between music audio and textual contexts. We train it on an extensive music caption dataset and fine-tune it with instructional data. Due to the scarcity of high-quality music Q&amp;amp;A datasets, we created the MusicInstruct (MI) dataset from MusicCaps, tailored for open-ended music inquiries. Empirical evaluations demonstrate its competitive performance in generating music captions and composing music-related Q&amp;amp;A pairs. Our introduced dataset enables notable advancements beyond previous ones.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2309.08730.pdf&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zihaod/musilingo&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/datasets/m-a-p/Music-Instruct/tree/main&#34; target=&#34;_blank&#34;&gt;Dataset link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;To be submitted to ****2023.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MARBLE: Music Audio Representation Benchmark for Universal Evaluation</title>
+      <link>/publication/marble/</link>
+      <pubDate>Sun, 18 Jun 2023 18:24:35 +0100</pubDate>
+      <guid>/publication/marble/</guid>
+      <description>&lt;p&gt;Abstract: In the era of extensive intersection between art and Artificial Intelligence (AI), such as image generation and fiction co-creation, AI for music remains relatively nascent, particularly in music understanding. This is evident in the limited work on deep music representations, the scarcity of large-scale datasets, and the absence of a universal and community-driven benchmark. To address this issue, we introduce the Music Audio Representation Benchmark for universaL Evaluation, termed MARBLE. It aims to provide a benchmark for various Music Information Retrieval (MIR) tasks by defining a comprehensive taxonomy with four hierarchy levels, including acoustic, performance, score, and high-level description. We then establish a unified protocol based on 14 tasks on 8 public-available datasets, providing a fair and standard assessment of representations of all open-sourced pre-trained models developed on music recordings as baselines. Besides, MARBLE offers an easy-to-use, extendable, and reproducible suite for the community, with a clear statement on copyright issues on datasets. Results suggest recently proposed large-scale pre-trained musical language models perform the best in most tasks, with room for further improvement. The leaderboard and toolkit repository are published at this https URL to promote future music AI research.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2306.105488&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/a43992899/MARBLE-Benchmark&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Accepted by NeurIPS 2023, dataset and benchmark track.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised TrainingCCF none</title>
+      <link>/publication/mert/</link>
+      <pubDate>Wed, 31 May 2023 18:24:35 +0100</pubDate>
+      <guid>/publication/mert/</guid>
+      <description>&lt;p&gt;Abstract: Self-supervised learning (SSL) has recently emerged as a promising paradigm for training generalisable models on large-scale data in the fields of vision, text, and speech. Although SSL has been proven effective in speech and audio, its application to music audio has yet to be thoroughly explored. This is primarily due to the distinctive challenges associated with modelling musical knowledge, particularly its tonal and pitched characteristics of music. To address this research gap, we propose an acoustic Music undERstanding model with large-scale self-supervised Training (MERT), which incorporates teacher models to provide pseudo labels in the masked language modelling (MLM) style acoustic pre-training. In our exploration, we identified a superior combination of teacher models, which outperforms conventional speech and audio approaches in terms of performance. This combination includes an acoustic teacher based on Residual Vector Quantization - Variational AutoEncoder (RVQ-VAE) and a musical teacher based on the Constant-Q Transform (CQT). These teachers effectively guide our student model, a BERT-style transformer encoder, to better model music audio. In addition, we introduce an in-batch noise mixture augmentation to enhance the representation robustness. Furthermore, we explore a wide range of settings to overcome the instability in acoustic language model pre-training, which allows our designed paradigm to scale from 95M to 330M parameters. Experimental results indicate that our model can generalise and perform well on 14 music understanding tasks and attains state-of-the-art (SOTA) overall scores. The code …&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2306.00107&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yizhilll/MERT&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rejected by NeurIPS2023&lt;/li&gt;
+&lt;li&gt;Submitted to ICLR2024&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the effectiveness of speech self-supervised learning for musicCCF none</title>
+      <link>/publication/ismir2023ssl/</link>
+      <pubDate>Fri, 14 Apr 2023 18:24:35 +0100</pubDate>
+      <guid>/publication/ismir2023ssl/</guid>
+      <description>&lt;p&gt;Abstract: Self-supervised learning (SSL) has shown promising results in various speech and natural language processing applications. However, its efficacy in music information retrieval (MIR) still remains largely unexplored. While previous SSL models pre-trained on music recordings may have been mostly closed-sourced, recent speech models such as wav2vec2.0 have shown promise in music modelling. Nevertheless, research exploring the effectiveness of applying speech SSL models to music recordings has been limited. We explore the music adaption of SSL with two distinctive speech-related models, data2vec1.0 and Hubert, and refer to them as music2vec and musicHuBERT, respectively. We train  SSL models with 95M parameters under various pre-training configurations and systematically evaluate the MIR task performances with 13 different MIR tasks. Our findings suggest that training with music data can generally improve performance on MIR tasks, even when models are trained using paradigms designed for speech. However, we identify the limitations of such existing speech-oriented designs, especially in modelling polyphonic information. Based on the experimental results, empirical suggestions are also given for designing future musical SSL strategies and paradigms.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2307.05161.pdf&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Accepted by ISMIR 2023, Milan, Italy.&lt;/li&gt;
+&lt;li&gt;Music2Vec can be founded at here, the link is the same as our ISMIR2022LBD demo &lt;a href=&#34;https://huggingface.co/m-a-p/music2vec-v1&#34;&gt;https://huggingface.co/m-a-p/music2vec-v1&lt;/a&gt; and the training code is the same as the MERT training code. But the k-means feature need to be replaced with MFCC as the information described in the paper &lt;a href=&#34;https://github.com/yizhilll/MERT&#34;&gt;https://github.com/yizhilll/MERT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lyricwhiz: Robust multilingual zero-shot lyrics transcription by whispering to chatgptCCF none</title>
+      <link>/publication/lyricwhiz/</link>
+      <pubDate>Fri, 14 Apr 2023 17:24:35 +0100</pubDate>
+      <guid>/publication/lyricwhiz/</guid>
+      <description>&lt;p&gt;Abstract: We introduce LyricWhiz, a robust, multilingual, and zero-shot automatic lyrics transcription method achieving state-of-the-art performance on various lyrics transcription datasets, even in challenging genres such as rock and metal. Our novel, training-free approach utilizes Whisper, a weakly supervised robust speech recognition model, and GPT-4, today&#39;s most performant chat-based large language model. In the proposed method, Whisper functions as the &amp;ldquo;ear&amp;rdquo; by transcribing the audio, while GPT-4 serves as the &amp;ldquo;brain,&amp;rdquo; acting as an annotator with a strong performance for contextualized output selection and correction. Our experiments show that LyricWhiz significantly reduces Word Error Rate compared to existing methods in English and can effectively transcribe lyrics across multiple languages. Furthermore, we use LyricWhiz to create the first publicly available, large-scale, multilingual lyrics transcription dataset with a CC-BY-NC-SA copyright license, based on MTG-Jamendo, and offer a human-annotated subset for noise level estimation and evaluation. We anticipate that our proposed method and dataset will advance the development of multilingual lyrics transcription, a challenging and emerging task.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2306.17103.pdf&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Accepted by ISMIR 2023.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large-Scale Pretrained Model for Self-Supervised Music Audio Representation Learning</title>
+      <link>/publication/dmrn2022/</link>
+      <pubDate>Mon, 19 Dec 2022 18:24:35 +0100</pubDate>
+      <guid>/publication/dmrn2022/</guid>
+      <description>&lt;p&gt;Abstract: Self-supervised learning technique is an under-explored topic for music audio due to the challenge of designing an appropriate training paradigm. We hence propose MAP-MERT, a large-scale music audio pre-trained model for general music understanding. We achieve performance that is comparable to the state-of-the-art pre-trained model Jukebox using less than 2% of parameters.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://qmro.qmul.ac.uk/xmlui/handle/123456789/83372&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Presented by DMRN workshop 2022.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learnable Front Ends Based on Temporal Modulation for Music TaggingCCF none</title>
+      <link>/publication/tmnn/</link>
+      <pubDate>Mon, 05 Dec 2022 18:24:35 +0100</pubDate>
+      <guid>/publication/tmnn/</guid>
+      <description>&lt;p&gt;Abstract: While end-to-end systems are becoming popular in auditory signal processing including automatic music tagging, models using raw audio as input needs a large amount of data and computational resources without domain knowledge. Inspired by the fact that temporal modulation is regarded as an essential component in auditory perception, we introduce the Temporal Modulation Neural Network (TMNN) that combines Mel-like data-driven front ends and temporal modulation filters with a simple ResNet back end. The structure includes a set of temporal modulation filters to capture long-term patterns in all frequency channels. Experimental results show that the proposed front ends surpass state-of-the-art (SOTA) methods on the MagnaTagATune dataset in automatic music tagging, and they are also helpful for keyword spotting on speech commands. Moreover, the model performance for each tag suggests that genre or instrument tags with complex rhythm and mood tags can especially be improved with temporal modulation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2211.15254.pdf8&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Accepted by ISMIR 2023 late breaking demo.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Map-music2vec: A simple and effective baseline for self-supervised music audio representation learning</title>
+      <link>/publication/music2vec/</link>
+      <pubDate>Mon, 05 Dec 2022 18:24:35 +0100</pubDate>
+      <guid>/publication/music2vec/</guid>
+      <description>&lt;p&gt;Abstract: The deep learning community has witnessed an exponentially growing interest in self-supervised learning (SSL). However, it still remains unexplored how to build a framework for learning useful representations of raw music waveforms in a self-supervised manner. In this work, we design Music2Vec, a framework exploring different SSL algorithmic components and tricks for music audio recordings. Our model achieves comparable results to the state-of-the-art (SOTA) music SSL model Jukebox, despite being significantly smaller with less than 2% of parameters of the latter. The model will be released on Huggingface.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2212.02508&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/m-a-p/music2vec-v1&#34; target=&#34;_blank&#34;&gt;Huggingface checkpoints.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Accepted by ISMIR 2022, late breaking demo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised TrainingCCF none</title>
+      <link>/project/tmnn/</link>
+      <pubDate>Mon, 29 Aug 2022 21:40:17 +0100</pubDate>
+      <guid>/project/tmnn/</guid>
+      <description>&lt;p&gt;09/2021 – 07/2022&lt;/p&gt;
+&lt;p&gt;Research Assistant, Supervised by Prof. Richard Stern, Carnegie Mellon University&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Constructed 2-layer learnable front ends in Temporal Modulation Neural Network (TMNN) that combines
+Mel-like data-driven front ends and temporal modulation filters.&lt;/li&gt;
+&lt;li&gt;Examined the proposed front ends surpass state-of-the-art (SOTA) methods on the MagnaTagATune dataset in
+automatic music tagging, and they are also helpful for keyword spotting on speech commands.&lt;/li&gt;
+&lt;li&gt;Analysis of the model performance among tags with different genres and instrument tags.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Learnable Frontend for Music, Speech and Audiow</title>

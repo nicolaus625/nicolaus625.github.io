@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 22:05:06 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 21:40:17 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>benchmark</title>
+      <link>/tags/benchmark/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datasets</title>
+      <link>/tags/datasets/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/tags/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Tue, 02 Nov 2021 22:05:06 -0400</pubDate>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
       <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
@@ -23,8 +39,24 @@
     <item>
       <title>MIR</title>
       <link>/tags/mir/</link>
-      <pubDate>Tue, 02 Nov 2021 22:05:06 -0400</pubDate>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
       <guid>/tags/mir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal</title>
+      <link>/tags/multimodal/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/tags/multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSL</title>
+      <link>/tags/ssl/</link>
+      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
+      <guid>/tags/ssl/</guid>
       <description></description>
     </item>
     
