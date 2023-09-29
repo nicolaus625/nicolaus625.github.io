@@ -17,13 +17,15 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;MA Yinghao (马英浩) is a master student at Carnegie Mellon University (CMU), majoring in Music and Technology. 
-His research interests are signal processing and machine learning for computational listening, including music information retrieval, speech, sound event, along with multimodal related to them. 
-Besides, he was one of student conductors of Chinese Philharmonic Orchestra, 
-Chinese Music Institute at PKU (&lt;a href=&#34;https://www.facebook.com/Peking-University-Chinese-Music-Institute-cmipku-709151079161865/?ref=bookmarks&#34; target=&#34;_blank&#34;&gt;see at Facebook&lt;/a&gt;). 
+      <description>&lt;p&gt;MA Yinghao (马英浩) is an AI Music Ph.D. student at Centre for Digital Music (C4DM), School of EECS, Queen Mary University of London. &lt;!-- His research interests include machine learning (especially self-supervised learning, SSL) and signal processing for music information retrieval (MIR) and  multimodal learning. --&gt; 
+He is one of the co-founders of the Multimodal Art Projection (&lt;a href=&#34;https://m-a-p.ai/&#34; target=&#34;_blank&#34;&gt;MAP&lt;/a&gt;) community.
+Together with his colleague, he proposed an acoustic Music undERstanding model with large-scale self-supervised Training (MERT), with more than 50k downloads on the &lt;a href=&#34;https://huggingface.co/m-a-p/&#34; target=&#34;_blank&#34;&gt;Huggingfac page&lt;/a&gt;, and established a Music Audio Representation Benchmark for universaL Evaluation (&lt;a href=&#34;https://marble-bm.sheffield.ac.uk/&#34; target=&#34;_blank&#34;&gt;MRABLE&lt;/a&gt;). 
+He is also interested in music-related multimodality and developed &lt;a href=&#34;https://github.com/zihaod/MusiLingo&#34; target=&#34;_blank&#34;&gt;MusiLingo&lt;/a&gt;, a music captioning and query response model based on the alignment of single-modality pre-trained models.&lt;/p&gt;
+&lt;p&gt;Besides, he was one of student conductors of Chinese Philharmonic Orchestra, 
+Chinese Music Institute at Peking University (&lt;a href=&#34;https://www.facebook.com/Peking-University-Chinese-Music-Institute-cmipku-709151079161865/?ref=bookmarks&#34; target=&#34;_blank&#34;&gt;Facebook Page&lt;/a&gt;). 
 He is also an advocate of charitable activities (see at &lt;a href=&#34;#experience&#34;&gt;other experience&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;He is now seeking for a PhD position to develop new and better objective criteria for speech and music analysis to pave the way for a deeper understanding of auditory phenomenon.&lt;/p&gt;
-&lt;!--He is now applying for Graduate studies, in pursuit of his passion in exploring new things and innovating new ideas.--&gt;</description>
+&lt;p&gt;He is now seeking for a summer internship position on SSL for MIR or music-related multimodality, in order to pave the way for a human understanding of music phenomenon. &lt;!--He is now applying for Graduate studies, in pursuit of his passion in exploring new things and innovating new ideas.--&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
