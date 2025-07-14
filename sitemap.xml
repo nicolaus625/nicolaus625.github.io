@@ -53,18 +53,33 @@
   </url>
   
   <url>
-    <loc>/publication/mmar/</loc>
-    <lastmod>2025-05-29T18:24:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/audio-flan/</loc>
-    <lastmod>2025-02-23T18:24:35+01:00</lastmod>
+    <loc>/publication/d-cpt/</loc>
+    <lastmod>2024-12-16T18:24:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/nlp/</loc>
     <lastmod>2025-02-20T18:24:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mmar/</loc>
+    <lastmod>2025-05-29T18:24:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/generation/</loc>
+    <lastmod>2025-03-11T18:24:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/yue/</loc>
+    <lastmod>2025-03-11T18:24:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/audio-flan/</loc>
+    <lastmod>2025-02-23T18:24:35+01:00</lastmod>
   </url>
   
   <url>
@@ -100,11 +115,6 @@
   <url>
     <loc>/tags/genai/</loc>
     <lastmod>2024-07-10T18:24:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/generation/</loc>
-    <lastmod>2025-03-03T18:24:35+01:00</lastmod>
   </url>
   
   <url>
@@ -153,17 +163,7 @@
   </url>
   
   <url>
-    <loc>/publication/d-cpt/</loc>
-    <lastmod>2023-09-29T18:24:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/musilingo/</loc>
-    <lastmod>2023-09-29T18:24:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/yue/</loc>
     <lastmod>2023-09-29T18:24:35+01:00</lastmod>
   </url>
   

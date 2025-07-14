@@ -41,6 +41,15 @@
     </item>
     
     <item>
+      <title>Yue: Scaling open foundation models for long-form music generation</title>
+      <link>/publication/yue/</link>
+      <pubDate>Tue, 11 Mar 2025 18:24:35 +0100</pubDate>
+      <guid>/publication/yue/</guid>
+      <description>&lt;p&gt;Abstract: We tackle the task of long-form music generation&amp;ndash;particularly the challenging \textbf{lyrics-to-song} problem&amp;ndash;by introducing YuE, a family of open foundation models based on the LLaMA2 architecture. Specifically, YuE scales to trillions of tokens and generates up to five minutes of music while maintaining lyrical alignment, coherent musical structure, and engaging vocal melodies with appropriate accompaniment. It achieves this through (1) track-decoupled next-token prediction to overcome dense mixture signals, (2) structural progressive conditioning for long-context lyrical alignment, and (3) a multitask, multiphase pre-training recipe to converge and generalize. In addition, we redesign the in-context learning technique for music generation, enabling versatile style transfer (e.g., converting Japanese city pop into an English rap while preserving the original accompaniment) and bidirectional generation. Through extensive evaluation, we demonstrate that YuE matches or even surpasses some of the proprietary systems in musicality and vocal agility. In addition, fine-tuning YuE enables additional controls and enhanced support for tail languages. Furthermore, beyond generation, we show that YuE&#39;s learned representations can perform well on music understanding tasks, where the results of YuE match or exceed state-of-the-art methods on the MARBLE benchmark. Keywords: lyrics2song, song generation, long-form, foundation model, music generation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Audio-flan: A preliminary release</title>
       <link>/publication/audio-flan/</link>
       <pubDate>Sun, 23 Feb 2025 18:24:35 +0100</pubDate>
@@ -139,15 +148,6 @@ Recent advancements in multimodal large language models (MLLMs) have focused on 
 &lt;li&gt;&lt;a href=&#34;https://huggingface.co/datasets/m-a-p/Music-Instruct/tree/main&#34; target=&#34;_blank&#34;&gt;Dataset link.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;PUblished in 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024).&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Yue: Scaling open foundation models for long-form music generation</title>
-      <link>/publication/yue/</link>
-      <pubDate>Tue, 19 Sep 2023 18:24:35 +0100</pubDate>
-      <guid>/publication/yue/</guid>
-      <description>&lt;p&gt;Abstract: We tackle the task of long-form music generation&amp;ndash;particularly the challenging \textbf{lyrics-to-song} problem&amp;ndash;by introducing YuE, a family of open foundation models based on the LLaMA2 architecture. Specifically, YuE scales to trillions of tokens and generates up to five minutes of music while maintaining lyrical alignment, coherent musical structure, and engaging vocal melodies with appropriate accompaniment. It achieves this through (1) track-decoupled next-token prediction to overcome dense mixture signals, (2) structural progressive conditioning for long-context lyrical alignment, and (3) a multitask, multiphase pre-training recipe to converge and generalize. In addition, we redesign the in-context learning technique for music generation, enabling versatile style transfer (e.g., converting Japanese city pop into an English rap while preserving the original accompaniment) and bidirectional generation. Through extensive evaluation, we demonstrate that YuE matches or even surpasses some of the proprietary systems in musicality and vocal agility. In addition, fine-tuning YuE enables additional controls and enhanced support for tail languages. Furthermore, beyond generation, we show that YuE&#39;s learned representations can perform well on music understanding tasks, where the results of YuE match or exceed state-of-the-art methods on the MARBLE benchmark. Keywords: lyrics2song, song generation, long-form, foundation model, music generation&lt;/p&gt;
 </description>
     </item>
     
