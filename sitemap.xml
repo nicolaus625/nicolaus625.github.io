@@ -53,16 +53,6 @@
   </url>
   
   <url>
-    <loc>/publication/d-cpt/</loc>
-    <lastmod>2024-12-16T18:24:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nlp/</loc>
-    <lastmod>2025-02-20T18:24:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/mmar/</loc>
     <lastmod>2025-05-29T18:24:35+01:00</lastmod>
   </url>
@@ -83,6 +73,11 @@
   </url>
   
   <url>
+    <loc>/tags/nlp/</loc>
+    <lastmod>2025-02-20T18:24:35+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/supergpqa/</loc>
     <lastmod>2025-02-20T18:24:35+01:00</lastmod>
   </url>
@@ -100,6 +95,11 @@
   <url>
     <loc>/publication/reason/</loc>
     <lastmod>2024-07-31T18:24:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/d-cpt/</loc>
+    <lastmod>2024-12-16T18:24:35+01:00</lastmod>
   </url>
   
   <url>
