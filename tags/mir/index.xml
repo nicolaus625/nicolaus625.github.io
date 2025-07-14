@@ -5,12 +5,90 @@
     <link>/tags/mir/</link>
       <atom:link href="/tags/mir/index.xml" rel="self" type="application/rss+xml" />
     <description>MIR</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 21:40:17 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jun 2025 18:24:35 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>MIR</title>
       <link>/tags/mir/</link>
     </image>
+    
+    <item>
+      <title>CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following</title>
+      <link>/publication/cmi-bench/</link>
+      <pubDate>Sat, 14 Jun 2025 18:24:35 +0100</pubDate>
+      <guid>/publication/cmi-bench/</guid>
+      <description>&lt;p&gt;Abstract: Recent advances in audio-text large language models (LLMs) have opened new possibilities for music understanding and generation. However, existing benchmarks are limited in scope, often relying on simplified tasks or multi-choice evaluations that fail to reflect the complexity of real-world music analysis. We reinterpret a broad range of traditional MIR annotations as instruction-following formats and introduce CMI-Bench, a comprehensive music instruction following benchmark designed to evaluate audio-text LLMs on a diverse set of music information retrieval (MIR) tasks. These include genre classification, emotion regression, emotion tagging, instrument classification, pitch estimation, key detection, lyrics transcription, melody extraction, vocal technique recognition, instrument performance technique detection, music tagging, music captioning, and (down)beat tracking: reflecting core challenges in MIR research. Unlike previous benchmarks, CMI-Bench adopts standardized evaluation metrics consistent with previous state-of-the-art MIR models, ensuring direct comparability with supervised approaches. We provide an evaluation toolkit supporting all open-source audio-textual LLMs, including LTU, Qwen-audio, SALMONN, MusiLingo, etc. Experiment results reveal significant performance gaps between LLMs and supervised models, along with their culture, chronological and gender bias, highlighting the potential and limitations of current models in addressing MIR tasks. CMI-Bench establishes a unified foundation for evaluating music instruction following, driving progress in music-aware LLMs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.arxiv.org/abs/2506.12285&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nicolaus625/CMI-bench&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/datasets/nicolaus625/CMI-bench&#34; target=&#34;_blank&#34;&gt;Dataset link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PUblished in the 26th International Society for Music Information Retrieval (ISMIR 2025).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response</title>
+      <link>/publication/mmar/</link>
+      <pubDate>Mon, 19 May 2025 18:24:35 +0100</pubDate>
+      <guid>/publication/mmar/</guid>
+      <description>&lt;p&gt;Abstract: We introduce MMAR, a new benchmark designed to evaluate the deep reasoning capabilities of Audio-Language Models (ALMs) across massive multi-disciplinary tasks. MMAR comprises 1,000 meticulously curated audio-question-answer triplets, collected from real-world internet videos and refined through iterative error corrections and quality checks to ensure high quality. Unlike existing benchmarks that are limited to specific domains of sound, music, or speech, MMAR extends them to a broad spectrum of real-world audio scenarios, including mixed-modality combinations of sound, music, and speech. Each question in MMAR is hierarchically categorized across four reasoning layers: Signal, Perception, Semantic, and Cultural, with additional sub-categories within each layer to reflect task diversity and complexity. To further foster research in this area, we annotate every question with a Chain-of-Thought (CoT) rationale to promote future advancements in audio reasoning. Each item in the benchmark demands multi-step deep reasoning beyond surface-level understanding. Moreover, a part of the questions requires graduate-level perceptual and domain-specific knowledge, elevating the benchmark&#39;s difficulty and depth. We evaluate MMAR using a broad set of models, including Large Audio-Language Models (LALMs), Large Audio Reasoning Models (LARMs), Omni Language Models (OLMs), Large Language Models (LLMs), and Large Reasoning Models (LRMs), with audio caption inputs. The performance of these models on MMAR highlights the benchmark&#39;s challenging nature, and our analysis further reveals critical limitations of …&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.13032&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ddlBoJack/MMAR&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audio-flan: A preliminary release</title>
+      <link>/publication/audio-flan/</link>
+      <pubDate>Sun, 23 Feb 2025 18:24:35 +0100</pubDate>
+      <guid>/publication/audio-flan/</guid>
+      <description>&lt;p&gt;Abstract: 
+Recent advancements in audio tokenization have significantly enhanced the integration of audio capabilities into large language models (LLMs). However, audio understanding and generation are often treated as distinct tasks, hindering the development of truly unified audio-language models. While instruction tuning has demonstrated remarkable success in improving generalization and zero-shot learning across text and vision, its application to audio remains largely unexplored. A major obstacle is the lack of comprehensive datasets that unify audio understanding and generation. To address this, we introduce Audio-FLAN, a large-scale instruction-tuning dataset covering 80 diverse tasks across speech, music, and sound domains, with over 100 million instances. Audio-FLAN lays the foundation for unified audio-language models that can seamlessly handle both understanding (e.g., transcription, comprehension) and generation (e.g., speech, music, sound) tasks across a wide range of audio domains in a zero-shot manner. The Audio-FLAN dataset is available on HuggingFace and GitHub and will be continuously updated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foundation models for music: A survey</title>
+      <link>/publication/fm4music/</link>
+      <pubDate>Mon, 26 Aug 2024 18:24:35 +0100</pubDate>
+      <guid>/publication/fm4music/</guid>
+      <description>&lt;p&gt;Abstract: In recent years, foundation models (FMs) such as large language models (LLMs) and latent diffusion models (LDMs) have profoundly impacted diverse sectors, including music. This comprehensive review examines state-of-the-art (SOTA) pre-trained models and foundation models in music, spanning from representation learning, generative learning and multimodal learning. We first contextualise the significance of music in various industries and trace the evolution of AI in music. By delineating the modalities targeted by foundation models, we discover many of the music representations are underexplored in FM development. Then, emphasis is placed on the lack of versatility of previous methods on diverse music applications, along with the potential of FMs in music understanding, generation and medical application. By comprehensively exploring the details of the model pre-training paradigm, architectural choices, tokenisation, finetuning methodologies and controllability, we emphasise the important topics that should have been well explored, like instruction tuning and in-context learning, scaling law and emergent ability, as well as long-sequence modelling etc. A dedicated section presents insights into music agents, accompanied by a thorough analysis of datasets and evaluations essential for pre-training and downstream tasks. Finally, by underscoring the vital importance of ethical considerations, we advocate that following research on FM for music should focus more on such issues as interpretability, transparency, human responsibility, and copyright issues. The paper offers insights into future challenges and trends on FMs for music …&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nicolaus625/FM4Music&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Huggingface daily paper top 3, 27 Aug 2024.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can LLMs &#34;Reason&#34; in Music? An Evaluation of LLMs&#39; Capability of Music Understanding and Generation</title>
+      <link>/publication/reason/</link>
+      <pubDate>Wed, 31 Jul 2024 18:24:35 +0100</pubDate>
+      <guid>/publication/reason/</guid>
+      <description>&lt;p&gt;Abstract: Symbolic Music, akin to language, can be encoded in discrete symbols. Recent research has extended the application of large language models (LLMs) such as GPT-4 and Llama2 to the symbolic music domain including understanding and generation. Yet scant research explores the details of how these LLMs perform on advanced music understanding and conditioned generation, especially from the multi-step reasoning perspective, which is a critical aspect in the conditioned, editable, and interactive human-computer co-creation process. This study conducts a thorough investigation of LLMs’ capability and limitations in symbolic music processing. We identify that current LLMs exhibit poor performance in song-level multi-step music reasoning, and typically fail to leverage learned music knowledge when addressing complex musical tasks. An analysis of LLMs’ responses highlights distinctly their pros and cons. Our findings suggest achieving advanced musical capability is not intrinsically obtained by LLMs, and future research should focus more on bridging the gap between music knowledge and reasoning, to improve the co-creation experience for musicians.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/html/2407.21531v1&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PUblished in the 25th International Society for Music Information Retrieval (ISMIR 2024).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mertech: Instrument Playing Technique Detection Using Self-Supervised Pretrained Model with Multi-Task Finetuning</title>
+      <link>/publication/mertech/</link>
+      <pubDate>Sun, 15 Oct 2023 18:24:35 +0100</pubDate>
+      <guid>/publication/mertech/</guid>
+      <description>&lt;p&gt;Abstract: Instrument playing techniques (IPTs) constitute a pivotal component of musical expression. However, the development of automatic IPT detection methods suffers from limited labeled data and inherent class imbalance issues. In this paper, we propose to apply a self-supervised learning model pre-trained on large-scale unlabeled music data and finetune it on IPT detection tasks. This approach addresses data scarcity and class imbalance challenges. Recognizing the significance of pitch in capturing the nuances of IPTs and the importance of onset in locating IPT events, we investigate multi-task finetuning with pitch and onset detection as auxiliary tasks. Additionally, we apply a post-processing approach for event-level prediction, where an IPT activation initiates an event only if the onset output confirms an onset in that frame. Our method outperforms prior approaches in both frame-level and event-level metrics across multiple IPT benchmark datasets. Further experiments demonstrate the efficacy of multi-task finetuning on each IPT class. 1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10447445&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/LiDCC/MERTech&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PUblished in 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Bridging Music &amp; Text with Pre-trained Models for Music Captioning and QA</title>
@@ -68,7 +146,7 @@
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2309.08730.pdf&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/zihaod/musilingo&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://huggingface.co/datasets/m-a-p/Music-Instruct/tree/main&#34; target=&#34;_blank&#34;&gt;Dataset link.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;To be submitted to ****2023.&lt;/li&gt;
+&lt;li&gt;PUblished in 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024).&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
