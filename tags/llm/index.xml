@@ -5,12 +5,47 @@
     <link>/tags/llm/</link>
       <atom:link href="/tags/llm/index.xml" rel="self" type="application/rss+xml" />
     <description>LLM</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jun 2025 18:24:35 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 11:29:43 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>LLM</title>
       <link>/tags/llm/</link>
     </image>
+    
+    <item>
+      <title>🎉🎉🎉Awarded Google PhD Fellowship 2025</title>
+      <link>/publication/googlefellowship/</link>
+      <pubDate>Fri, 24 Oct 2025 11:29:43 +0800</pubDate>
+      <guid>/publication/googlefellowship/</guid>
+      <description>&lt;p&gt;We are extremely proud to announce that Yinghao MA, a PhD student in AI and music at the Centre for Digital Music at QMUL, has been awarded the 2025 Google Fellowship in Machine Perception.&lt;/p&gt;
+&lt;p&gt;The Google PhD Fellowship Program was created to recognise outstanding graduate students doing exceptional and innovative research in areas relevant to computer science and related fields.&lt;/p&gt;
+&lt;p&gt;A Google spokesperson said: “The student nominations we received this year were exemplary in their quality, but Yinghao especially stood out and was endorsed by the research scientists and distinguished engineers within Google who participated in the review. Congratulations to Yinghao on this well-deserved recognition, it’s an honor to support such incredibly talented students.”&lt;/p&gt;
+&lt;p&gt;Yinghao Ma&#39;s PhD research focuses on advancing Large Language Models (LLMs) for music understanding and generation. Specifically, he studies how multimodal models can integrate audio, symbolic, and textual information to understand, reason about, and generate music.&lt;/p&gt;
+&lt;p&gt;Together with colleagues, he developed MERT, a large-scale music audio representation model which has more than 10k monthly download in the past three years. His recent work includes developing music instruction-following datasets and benchmarks that help evaluate how well AI systems can comprehend and create music.&lt;/p&gt;
+&lt;p&gt;He said: &amp;ldquo;It&#39;s my great honour to receive the Google PhD Fellowship that recognises my research and strongly contribute to my future career. I’m deeply grateful to Google and QMUL for the support, providing good platforms for AI &amp;amp; music research.&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#39;https://www.qmul.ac.uk/eecs/news-and-events/news/items/eecs-phd-student-awarded-google-phd-fellowship.html&#39; target=&#39;_blank&#39;&gt;News @ QMUL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#39;https://www.linkedin.com/feed/update/urn:li:activity:7387160161896939521/&#39; target=&#39;_blank&#39;&gt;Linkedin post @ QMUL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#39;https://research.google/programs-and-events/phd-fellowship/recipients/&#39; target=&#39;_blank&#39;&gt;complete list of fellowship recipients on Google&#39;s website.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#39;https://blog.google/outreach-initiatives/google-org/phd-fellowship-program-2025/&#39; target=&#39;_blank&#39;&gt;News @ Google&#39;s blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉Accepted by NeuriPS2025🎉 Omnibench: Towards the future of universal omni-language models</title>
+      <link>/publication/omnibench/</link>
+      <pubDate>Thu, 18 Sep 2025 18:24:35 +0100</pubDate>
+      <guid>/publication/omnibench/</guid>
+      <description>&lt;p&gt;Abstract: 
+Recent advancements in multimodal large language models (MLLMs) have focused on integrating multiple modalities, yet their ability to simultaneously process and reason across different inputs remains underexplored. We introduce OmniBench, a novel benchmark designed to evaluate models&amp;rsquo; ability to recognize, interpret, and reason across visual, acoustic, and textual inputs simultaneously. We define language models capable of such tri-modal processing as omni-language models (OLMs). OmniBench features high-quality human annotations that require integrated understanding across all modalities. Our evaluation reveals that: i) open-source OLMs show significant limitations in instruction-following and reasoning in tri-modal contexts; and ii) most baseline models perform poorly (around 50% accuracy) even with textual alternatives to image/audio inputs. To address these limitations, we develop OmniInstruct, an 96K-sample instruction tuning dataset for training OLMs. We advocate for developing more robust tri-modal integration techniques and training strategies to enhance OLM performance. Codes and data could be found at our repo (&lt;a href=&#34;https://github.com/multimodal-art-projection/OmniBench)&#34;&gt;https://github.com/multimodal-art-projection/OmniBench)&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2409.15272&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/multimodal-art-projection/OmniBench&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PUblished in the 39 Annual Conference on Neural Information Processing Systems (NeurIPS 2025).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>CMI-Bench: A Comprehensive Benchmark for Evaluating Music Instruction Following</title>
@@ -53,20 +88,6 @@ Recent advancements in audio tokenization have significantly enhanced the integr
       <guid>/publication/supergpqa/</guid>
       <description>&lt;p&gt;Abstract: 
 Large language models (LLMs) have demonstrated remarkable proficiency in mainstream academic disciplines such as mathematics, physics, and computer science. However, human knowledge encompasses over 200 specialized disciplines, far exceeding the scope of existing benchmarks. The capabilities of LLMs in many of these specialized fields-particularly in light industry, agriculture, and service-oriented disciplines-remain inadequately evaluated. To address this gap, we present SuperGPQA, a comprehensive benchmark that evaluates graduate-level knowledge and reasoning capabilities across 285 disciplines. Our benchmark employs a novel Human-LLM collaborative filtering mechanism to eliminate trivial or ambiguous questions through iterative refinement based on both LLM responses and expert feedback. Our experimental results reveal significant room for improvement in the performance of current state-of-the-art LLMs across diverse knowledge domains (e.g., the reasoning-focused model DeepSeek-R1 achieved the highest accuracy of 61.82% on SuperGPQA), highlighting the considerable gap between current model capabilities and artificial general intelligence. Additionally, we present comprehensive insights from our management of a large-scale annotation process, involving over 80 expert annotators and an interactive Human-LLM collaborative system, offering valuable methodological guidance for future research initiatives of comparable scope.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Omnibench: Towards the future of universal omni-language models</title>
-      <link>/publication/omnibench/</link>
-      <pubDate>Mon, 23 Sep 2024 18:24:35 +0100</pubDate>
-      <guid>/publication/omnibench/</guid>
-      <description>&lt;p&gt;Abstract: 
-Recent advancements in multimodal large language models (MLLMs) have focused on integrating multiple modalities, yet their ability to simultaneously process and reason across different inputs remains underexplored. We introduce OmniBench, a novel benchmark designed to evaluate models&amp;rsquo; ability to recognize, interpret, and reason across visual, acoustic, and textual inputs simultaneously. We define language models capable of such tri-modal processing as omni-language models (OLMs). OmniBench features high-quality human annotations that require integrated understanding across all modalities. Our evaluation reveals that: i) open-source OLMs show significant limitations in instruction-following and reasoning in tri-modal contexts; and ii) most baseline models perform poorly (around 50% accuracy) even with textual alternatives to image/audio inputs. To address these limitations, we develop OmniInstruct, an 96K-sample instruction tuning dataset for training OLMs. We advocate for developing more robust tri-modal integration techniques and training strategies to enhance OLM performance. Codes and data could be found at our repo (&lt;a href=&#34;https://github.com/multimodal-art-projection/OmniBench)&#34;&gt;https://github.com/multimodal-art-projection/OmniBench)&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2409.15272&#34; target=&#34;_blank&#34;&gt;Paper link.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/multimodal-art-projection/OmniBench&#34; target=&#34;_blank&#34;&gt;Code link.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

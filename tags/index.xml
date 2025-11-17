@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jun 2025 18:24:35 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 11:29:43 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -13,25 +13,17 @@
     </image>
     
     <item>
-      <title>benchmark</title>
-      <link>/tags/benchmark/</link>
-      <pubDate>Sat, 14 Jun 2025 18:24:35 +0100</pubDate>
-      <guid>/tags/benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>datasets</title>
-      <link>/tags/datasets/</link>
-      <pubDate>Sat, 14 Jun 2025 18:24:35 +0100</pubDate>
-      <guid>/tags/datasets/</guid>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Fri, 24 Oct 2025 11:29:43 +0800</pubDate>
+      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LLM</title>
       <link>/tags/llm/</link>
-      <pubDate>Sat, 14 Jun 2025 18:24:35 +0100</pubDate>
+      <pubDate>Fri, 24 Oct 2025 11:29:43 +0800</pubDate>
       <guid>/tags/llm/</guid>
       <description></description>
     </item>
@@ -39,15 +31,39 @@
     <item>
       <title>MIR</title>
       <link>/tags/mir/</link>
-      <pubDate>Sat, 14 Jun 2025 18:24:35 +0100</pubDate>
+      <pubDate>Fri, 24 Oct 2025 11:29:43 +0800</pubDate>
       <guid>/tags/mir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>/tags/news/</link>
+      <pubDate>Fri, 24 Oct 2025 11:29:43 +0800</pubDate>
+      <guid>/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>benchmark</title>
+      <link>/tags/benchmark/</link>
+      <pubDate>Thu, 18 Sep 2025 18:24:35 +0100</pubDate>
+      <guid>/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datasets</title>
+      <link>/tags/datasets/</link>
+      <pubDate>Thu, 18 Sep 2025 18:24:35 +0100</pubDate>
+      <guid>/tags/datasets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimodal</title>
       <link>/tags/multimodal/</link>
-      <pubDate>Sat, 14 Jun 2025 18:24:35 +0100</pubDate>
+      <pubDate>Thu, 18 Sep 2025 18:24:35 +0100</pubDate>
       <guid>/tags/multimodal/</guid>
       <description></description>
     </item>
@@ -81,14 +97,6 @@
       <link>/tags/genai/</link>
       <pubDate>Sun, 28 Apr 2024 18:24:35 +0100</pubDate>
       <guid>/tags/genai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Fri, 29 Sep 2023 21:40:17 +0100</pubDate>
-      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     

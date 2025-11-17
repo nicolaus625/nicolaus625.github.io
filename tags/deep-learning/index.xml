@@ -5,12 +5,32 @@
     <link>/tags/deep-learning/</link>
       <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 21:40:17 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 11:29:43 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>🎉🎉🎉Awarded Google PhD Fellowship 2025</title>
+      <link>/publication/googlefellowship/</link>
+      <pubDate>Fri, 24 Oct 2025 11:29:43 +0800</pubDate>
+      <guid>/publication/googlefellowship/</guid>
+      <description>&lt;p&gt;We are extremely proud to announce that Yinghao MA, a PhD student in AI and music at the Centre for Digital Music at QMUL, has been awarded the 2025 Google Fellowship in Machine Perception.&lt;/p&gt;
+&lt;p&gt;The Google PhD Fellowship Program was created to recognise outstanding graduate students doing exceptional and innovative research in areas relevant to computer science and related fields.&lt;/p&gt;
+&lt;p&gt;A Google spokesperson said: “The student nominations we received this year were exemplary in their quality, but Yinghao especially stood out and was endorsed by the research scientists and distinguished engineers within Google who participated in the review. Congratulations to Yinghao on this well-deserved recognition, it’s an honor to support such incredibly talented students.”&lt;/p&gt;
+&lt;p&gt;Yinghao Ma&#39;s PhD research focuses on advancing Large Language Models (LLMs) for music understanding and generation. Specifically, he studies how multimodal models can integrate audio, symbolic, and textual information to understand, reason about, and generate music.&lt;/p&gt;
+&lt;p&gt;Together with colleagues, he developed MERT, a large-scale music audio representation model which has more than 10k monthly download in the past three years. His recent work includes developing music instruction-following datasets and benchmarks that help evaluate how well AI systems can comprehend and create music.&lt;/p&gt;
+&lt;p&gt;He said: &amp;ldquo;It&#39;s my great honour to receive the Google PhD Fellowship that recognises my research and strongly contribute to my future career. I’m deeply grateful to Google and QMUL for the support, providing good platforms for AI &amp;amp; music research.&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#39;https://www.qmul.ac.uk/eecs/news-and-events/news/items/eecs-phd-student-awarded-google-phd-fellowship.html&#39; target=&#39;_blank&#39;&gt;News @ QMUL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#39;https://www.linkedin.com/feed/update/urn:li:activity:7387160161896939521/&#39; target=&#39;_blank&#39;&gt;Linkedin post @ QMUL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#39;https://research.google/programs-and-events/phd-fellowship/recipients/&#39; target=&#39;_blank&#39;&gt;complete list of fellowship recipients on Google&#39;s website.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#39;https://blog.google/outreach-initiatives/google-org/phd-fellowship-program-2025/&#39; target=&#39;_blank&#39;&gt;News @ Google&#39;s blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised TrainingCCF none</title>
