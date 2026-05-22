@@ -5,12 +5,44 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 11:29:43 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 18:24:35 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu25a3ac0bff28d67894e084ca1bc4b864_11852_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>benchmark</title>
+      <link>/tags/benchmark/</link>
+      <pubDate>Fri, 01 May 2026 18:24:35 +0100</pubDate>
+      <guid>/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datasets</title>
+      <link>/tags/datasets/</link>
+      <pubDate>Fri, 01 May 2026 18:24:35 +0100</pubDate>
+      <guid>/tags/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIR</title>
+      <link>/tags/mir/</link>
+      <pubDate>Fri, 01 May 2026 18:24:35 +0100</pubDate>
+      <guid>/tags/mir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal</title>
+      <link>/tags/multimodal/</link>
+      <pubDate>Fri, 01 May 2026 18:24:35 +0100</pubDate>
+      <guid>/tags/multimodal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Learning</title>
@@ -29,42 +61,10 @@
     </item>
     
     <item>
-      <title>MIR</title>
-      <link>/tags/mir/</link>
-      <pubDate>Fri, 24 Oct 2025 11:29:43 +0800</pubDate>
-      <guid>/tags/mir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>news</title>
       <link>/tags/news/</link>
       <pubDate>Fri, 24 Oct 2025 11:29:43 +0800</pubDate>
       <guid>/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>benchmark</title>
-      <link>/tags/benchmark/</link>
-      <pubDate>Thu, 18 Sep 2025 18:24:35 +0100</pubDate>
-      <guid>/tags/benchmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>datasets</title>
-      <link>/tags/datasets/</link>
-      <pubDate>Thu, 18 Sep 2025 18:24:35 +0100</pubDate>
-      <guid>/tags/datasets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multimodal</title>
-      <link>/tags/multimodal/</link>
-      <pubDate>Thu, 18 Sep 2025 18:24:35 +0100</pubDate>
-      <guid>/tags/multimodal/</guid>
       <description></description>
     </item>
     
